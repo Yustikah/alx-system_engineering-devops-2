@@ -1,4 +1,2 @@
 #!/bin/bash
-i
-ls
-:wq!
+head -3 iacta | tail -1
